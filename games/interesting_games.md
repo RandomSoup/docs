@@ -25,7 +25,7 @@ Price: <span style="color:green">Free</span>
 _Early Access_
 
 > Vectorio is a simple survival base-building game where the objective is to claim resources you find around the map and use them to research new powerful weapons and technology. Use your new tech to survive, expand, and defeat all six guardians and put an end to the onslaught of enemy shapes!
-
+>
 > There's more to your base then just the defensive side though. You'll need to carefully plan out not only the design of your front line, but the logistics side of your base as well. Careful power management and building placement is essential if you want to avoid your base running out of power and getting overrun!
 
 #### Availible on:
